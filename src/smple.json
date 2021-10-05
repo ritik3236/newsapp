@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "CNBC" 
+        },
+        "author": "Matthew J. Belvedere",
+        "title": "5 things to know before the stock market opens Monday - CNBC",
+        "description": "U.S. stock futures fell modestly Monday after finishing a rough week with strong rally on the first day of October.",
+        "url": "https://www.cnbc.com/2021/10/04/5-things-to-know-before-the-stock-market-opens-monday-oct-4.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949513-16329294352021-09-29t144826z_478045251_rc2pzp9itiv3_rtrmadp_0_usa-stocks.jpeg?v=1632929562",
+        "publishedAt": "2021-10-04T12:24:43Z",
+        "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Dow futures dropped after starting October with a strong rally\r\nTraders work on the floor of … [+4571 chars]"
+    }, {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "John Hanna",
+        "title": "Ex-US Rep. Todd Akin, sunk by 'legitimate rape' remark, dies - Associated Press",
+        "description": "Former U.S. Rep. Todd Akin, a conservative Missouri Republican whose comment that women's bodies have a way of avoiding pregnancies in cases of “legitimate rape” sunk his bid for the U.S.",
+        "url": "https://apnews.com/article/former-rep-todd-akin-dead-0a1b944f96eee4b63d9ea57e04c44ca4",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/c32ba75439a84937ae0961e2120ec6e5/3000.jpeg",
+        "publishedAt": "2021-10-04T11:53:13Z",
+        "content": "Former U.S. Rep. Todd Akin, a conservative Missouri Republican whose comment that womens bodies have a way of avoiding pregnancies in cases of legitimate rape sunk his bid for the U.S. Senate and bec… [+4495 chars]"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Nurse assistant shot and killed in Philadelphia hospital, allegedly by heavily armed fellow nursing assistant wearing scrubs - CBS News",
+        "description": "The victim was a 43-year-old male nurse. The suspect fled but got involved in a shootout with police and was wounded, along with two officers.",
+        "url": "https://www.cbsnews.com/news/philadelphia-shooting-hospital-nurse-assistant-killed/",
+        "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/10/04/1205edb0-94a2-4183-8ea3-486ecf2460bf/thumbnail/1200x630/a3c000a21418bbf4a24d4fd359671861/jefferson-hospital-philadelphia-after-fatal-shooting-of-nurse-early-on-100421.jpg",
+        "publishedAt": "2021-10-04T11:28:43Z",
+        "content": "Philadelphia — A nurse assistant was shot and killed inside Jefferson Hospital in Center City early Monday morning, CBS Philly reports. Police say the suspect, a 55-year-old heavily armed man wearing… [+2100 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Joe Sutton and Susannah Cullinane, CNN",
+        "title": "Orange County beaches closed after oil spill off California coast destroys wildlife habitat - CNN",
+        "description": "Portions of popular beaches across a swath of Southern California have been closed after a pipeline breach sent thousands of gallons of oil into the Pacific Ocean and dead wildlife began washing ashore.",
+        "url": "https://www.cnn.com/2021/10/04/us/california-oil-spill-monday/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211003224648-13-california-oil-spill-1003-super-tease.jpg",
+        "publishedAt": "2021-10-04T11:27:00Z",
+        "content": "(CNN)Portions of popular beaches across a swath of Southern California have been closed after a pipeline breach sent thousands of gallons of oil into the Pacific Ocean and dead wildlife began washing… [+5154 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "WDIV ClickOnDetroit"
+        },
+        "author": "Priya Mann, Natasha Dado",
+        "title": "CDC releases new guidance on staying safe during holiday season as COVID cases increase - WDIV ClickOnDetroit",
+        "description": "Last week the Centers for Disease Control and Prevention released guidance on trick-or-treating. Now looking ahead to Thanksgiving and the holiday season the agency has issued new guidance.",
+        "url": "https://www.clickondetroit.com/news/local/2021/10/04/cdc-releases-new-guidance-on-staying-safe-during-holiday-season-as-covid-cases-increase/",
+        "urlToImage": "https://www.clickondetroit.com/resizer/mftGs7Yx8NzpReb95mKzL5dDCG0=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/10-04-2021/t_b7713c54b48b4b95a57e8d6cc4bd17a7_name_image.jpg",
+        "publishedAt": "2021-10-04T11:17:07Z",
+        "content": "DETROIT Last week the Centers for Disease Control and Prevention released guidance on trick-or-treating. \r\nNow looking ahead to Thanksgiving and the holiday season the agency has issued new guidance.… [+1263 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Jaclyn Diaz",
+        "title": "A new Facebook whistleblower is renewing scrutiny of the social media giant - NPR",
+        "description": "Facebook could be facing its biggest scandal yet as a former employee comes forward to expose some of the company's secrets.",
+        "url": "https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant",
+        "urlToImage": "https://media.npr.org/assets/img/2021/10/03/ap21277006862704_wide-9dc90aeba6346dd608af64b20719a5d2ac8f8051.jpg?s=1400",
+        "publishedAt": "2021-10-04T11:09:00Z",
+        "content": "Facebook whistleblower Frances Haugen talks with CBS' Scott Pelley on a 60 Minutes episode that aired Sunday.\r\nRobert Fortunato/CBS News via AP\r\nA data scientist named Frances Haugen has revealed her… [+6541 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Elizabeth Cohen, CNN Senior Medical Correspondent",
+        "title": "Full FDA approval of Pfizer's Covid-19 vaccine had only a modest impact on uptake. Here's what mattered more - CNN",
+        "description": "Despite hopes that full approval of Pfizer's Covid-19 vaccine would convince large numbers of vaccine-hesitant Americans to roll up their sleeves, a federal government analysis provided to CNN suggests approval was not a silver bullet.",
+        "url": "https://www.cnn.com/2021/10/04/health/pfizer-covid-19-vaccine-approval-bump/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210927051442-pfizer-vaccine-covid-19-california-052121-file-super-tease.jpg",
+        "publishedAt": "2021-10-04T11:04:00Z",
+        "content": "(CNN)Despite hopes that full approval of Pfizer's Covid-19 vaccine would convince large numbers of vaccine-hesitant Americans to roll up their sleeves, a federal government analysis provided to CNN s… [+5342 chars]"
+    }, {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "James Vincent",
+        "title": "Siri’s 10-year anniversary is a reminder of Apple’s wasted head start - The Verge",
+        "description": "Ten years ago, Apple launched its digital assistant Siri with the iPhone 4s. As the first major voice interface for consumers, it was a huge hit. But over the years, Siri has fallen behind rivals like Google Assistant and Amazon’s Alexa. After Apple’s head st…",
+        "url": "https://www.theverge.com/22704233/siri-apple-digital-assistant-10-years-development-problems-why",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/j10Ok-Bj8C7C-Y3f_jQB0LxzAqY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22894848/acastro_211001_1777_0001.jpg",
+        "publishedAt": "2021-10-04T11:00:00Z",
+        "content": "Ten years ago today, Apples digital assistant Siri was revealed with the promise that the iPhone maker had finally figured it all out. \r\nFor decades, technologists have teased us with this dream that… [+15623 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "HuffPost"
+        },
+        "author": "Ron Dicker",
+        "title": "Bill Belichick's Oral Hygiene Fumble During Buccaneers-Patriots Game Disgusts Fans - HuffPost",
+        "description": "The Patriots coach lost to his old quarterback Tom Brady and tried to win a battle with his teeth.",
+        "url": "https://www.huffpost.com/entry/bill-belichick-pencil-toothpick_n_615ac400e4b099230d255220",
+        "urlToImage": "https://img.huffingtonpost.com/asset/615ac5b5280000311ca728c7.jpeg?ops=1778_1000",
+        "publishedAt": "2021-10-04T10:58:00Z",
+        "content": "New England Patriots coach Bill Belichick got caught on camera using a pencil as a toothpick, then eyeing his handiwork, during Sundays prime time game with the Tampa Bay Buccaneers.\r\nGot it all, Coa… [+953 chars]"
+    }, {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Reuters",
+        "title": "Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings of the Prophet Mohammad, was killed in a car crash, police said. - NBC News",
+        "description": "Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings depicting the Prophet Mohammad with the body of a dog, was killed in a car",
+        "url": "https://www.nbcnews.com/news/world/swedish-artist-lars-vilks-stirred-worldwide-controversy-2007-drawings-rcna2542",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-10/211004-lars-vilks-mb-1138-b80bb5.jpg",
+        "publishedAt": "2021-10-04T10:55:55Z",
+        "content": "STOCKHOLM Swedish artist Lars Vilks, who stirred worldwide controversy in 2007 with drawings depicting the Prophet Mohammad with the body of a dog, was killed in a car crash near the southern town of… [+1384 chars]"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Michael Scherer, Josh Dawsey",
+        "title": "Trump behaves like a presidential candidate, even as he puts off an official announcement. - The Washington Post",
+        "description": "The former president’s advisers fear an early announcement would complicate his fundraising and other activities, but Trump is taking steps toward a formal entry.",
+        "url": "https://www.washingtonpost.com/politics/trump-2024-campaign-candidacy/2021/10/03/73af3b12-21f8-11ec-b3d6-8cdebe60d3e2_story.html",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VEPQUA6NUI6ZPVIGCHKCNCZJ4.jpg&w=1440",
+        "publishedAt": "2021-10-04T10:02:01Z",
+        "content": "Some of his advisers were concerned that Democrats might use his announcement in their effortto frame the midterm elections around his candidacy, potentially boosting their own turnout and hampering … [+10245 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Natasha Frost",
+        "title": "Battling Delta, New Zealand Abandons Its Zero-Covid Ambitions - The New York Times",
+        "description": "The country is changing course seven weeks into a lockdown that has failed to end the outbreak and tested the patience of many residents.",
+        "url": "https://www.nytimes.com/2021/10/04/world/australia/new-zealand-covid-zero.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/10/04/world/04virus-newzealand1/04virus-newzealand1-facebookJumbo.jpg",
+        "publishedAt": "2021-10-04T09:51:55Z",
+        "content": "AUCKLAND, New Zealand For a year and a half, New Zealand has pursued a strategy of Covid zero, closing its borders and quickly enforcing lockdowns to keep the coronavirus in check, a policy it mainta… [+841 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Haaretz"
+        },
+        "author": "Haaretz",
+        "title": "'Pandora Papers': Jordan's king says luxury homes were kept hidden for security reasons - Haaretz",
+        "description": "***",
+        "url": "https://www.haaretz.com/middle-east-news/jordan/pandora-papers-jordan-s-king-says-luxury-homes-were-kpet-hidden-due-to-security-1.10264698",
+        "urlToImage": "https://www.haaretz.com/polopoly_fs/1.10264846.1633341161!/image/3612372912.jpg_gen/derivatives/headline_1200x630/3612372912.jpg",
+        "publishedAt": "2021-10-04T09:42:00Z",
+        "content": "Jordan's King Abdullah II said the claims made against him in media reports on the \"Pandora Papers\" – a leak of nearly 12 million files obtained from 14 offshore companies around the world released o… [+4277 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Marc Santora, Cora Engelbrecht",
+        "title": "Nobel Prize in Medicine Awarded to David Julius and Ardem Patapoutian - The New York Times",
+        "description": "David Julius and Ardem Patapoutian were honored for their discoveries about how heat, cold and touch can initiate signals in the nervous system.",
+        "url": "https://www.nytimes.com/2021/10/04/health/nobel-prize-medicine-physiology-temperature-touch.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/10/04/world/04nobel-01/04nobel-01-facebookJumbo.jpg",
+        "publishedAt": "2021-10-04T09:39:20Z",
+        "content": "In the 17th century, the philosopher René Descartes envisioned threads connecting different parts of the skin with the brain. In that way, when a flame touches the foot, a signal is sent to the brain… [+1545 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Kimberly Nordyke",
+        "title": "Damian Lewis Exits 'Billions' After 5 Seasons – The Hollywood Reporter - Hollywood Reporter",
+        "description": "Damian Lewis is exiting Billions after five seasons. Lewis played Bobby Axelrod, aka Axe, on the Showtime series, which aired its season five finale Sunday night. Showtime also said that season six will premiere Jan. 23 and released a trailer (watch it below)…",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/damian-lewis-exits-billions-season-five-1235024755/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2017/03/billions_206_834.r.jpg?w=1024",
+        "publishedAt": "2021-10-04T09:33:45Z",
+        "content": "Damian Lewis is exiting Billions after five seasons.\r\nLewis played Bobby Axelrod, aka Axe, on the Showtime series, which aired its season five finale Sunday night.\r\nShowtime also said that season six… [+1512 chars]"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Photogallery Team",
+        "title": "These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case - Times of India",
+        "description": "These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case Photos: Find out the latest pictures, still from movies, of These party pictures of Aryan Khan with BFFs trend after his arrest in a drug case on ETimes Photogallery. Including…",
+        "url": "https://photogallery.indiatimes.com/celebs/celeb-themes/these-party-pictures-of-aryan-khan-with-bffs-trend-after-his-arrest-in-a-drug-case/articleshow/86751202.cms",
+        "urlToImage": "https://static.toiimg.com/photo/86751743.cms",
+        "publishedAt": "2021-10-04T09:24:22Z",
+        "content": "Superstar SRKs son Aryan Khan has been making headlines after he was arrested by the Narcotics Control Bureau in connection with the Mumbai cruise party raid. Few throwback pictures of Aryan partying… [+1375 chars]"
+    }, {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Pete Williams",
+        "title": "Abortion, guns top agenda for new Supreme Court term - NBC News",
+        "description": "The Supreme Court could deliver rulings on abortion, carrying guns outside the home, public funding for religious education and race in college admissions.",
+        "url": "https://www.nbcnews.com/politics/supreme-court/abortion-guns-top-agenda-new-supreme-court-term-n1280550",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_39/3509535/210930-supreme-court-preview-se-427p.jpg",
+        "publishedAt": "2021-10-04T09:23:29Z",
+        "content": "WASHINGTON The Supreme Court is gearing up for a blockbuster term beginning Monday that is likely to produce the most important ruling on abortion in 30 years and a long-awaited decision on the issue… [+6590 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Pitchfork"
+        },
+        "author": "Jazz Monroe",
+        "title": "Billie Eilish to Headline Glastonbury 2022 - Pitchfork",
+        "description": "She’ll be the legendary UK festival’s youngest ever solo headliner",
+        "url": "https://pitchfork.com/news/billie-eilish-to-headline-glastonbury-2022/",
+        "urlToImage": "https://media.pitchfork.com/photos/615ac55896c8ccdb77871390/16:9/w_1280,c_limit/billie%2520eilish%2520glastonbury%25202022.jpg",
+        "publishedAt": "2021-10-04T09:14:39Z",
+        "content": "Billie Eilish will become the youngest ever solo headliner of Glastonbury festival with a Friday night set at the Pyramid Stage in 2022. She is the first headliner to be confirmed for next years fest… [+1051 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": null,
+        "title": "9 are dead after farmers protest in India escalates - NPR",
+        "description": "Four farmers died Sunday when a car owned by Junior Home Minister Ajay Mishra ran over protesting farmers in the Uttar Pradesh town of Lakhimpur Kheri, officials and farm leaders said.",
+        "url": "https://www.npr.org/2021/10/04/1042972083/a-farmer-protest-in-india-turns-deadly-leaving-9-dead-and-a-town-on-edge",
+        "urlToImage": "https://media.npr.org/assets/img/2021/10/04/ap21277294744070_wide-cf0b5dcbddfdd3c07505a2421f9ad38fac0df3bb.jpg?s=1400",
+        "publishedAt": "2021-10-04T09:01:30Z",
+        "content": "Indian farmers protesting against Sunday's killing of four farmers in Uttar Pradesh state after being run over by a car owned by India's junior Home Minister Ajay Mishra.\r\nMahesh Kumar A/AP\r\nLUCKNOW,… [+3189 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Abigail Ng",
+        "title": "U.S. trade representative Tai vows to enforce 'phase 1' trade deal with China - CNBC",
+        "description": "Washington must enforce phase one trade deal with China, and will raise broader policy concerns with Beijing, USTR Katherine Tai is expected to say on Monday.",
+        "url": "https://www.cnbc.com/2021/10/04/us-china-trade-ustr-katherine-tai-vows-to-enforce-phase-1-deal.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106951411-1633338658847-gettyimages-1232844770-AFP_99U86D.jpeg?v=1633338749",
+        "publishedAt": "2021-10-04T09:00:18Z",
+        "content": "Washington must enforce the U.S.-China phase one trade agreement and will raise broader policy concerns with Beijing, U.S. Trade Representative Katherine Tai will say on Monday, according to her pres… [+2728 chars]"
+    }]
+}
