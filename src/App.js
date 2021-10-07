@@ -11,7 +11,7 @@ export default class App extends Component {
   newsCategory = ['business', 'entertainment', 'health', 'science', 'sports', 'technology']
 
   state = {
-    progress: 10
+    progress: 0
   }
 
   setProgress = (progress) => {
@@ -22,10 +22,7 @@ export default class App extends Component {
       <>
         <Router>
           <Navbar />
-          <LoadingBar
-            color='#f11946'
-            progress={this.state.progress}
-          />
+          <LoadingBar color='#f11946' progress={this.state.progress} />
           <Switch>
             <Route exact path='/home'>
               <News key='home' setProgress={this.setProgress} country='in' category='general' pageSize={12} />
@@ -37,9 +34,9 @@ export default class App extends Component {
               return (
                 <Route exact path={'/' + ele}>
                   <News key={ele} setProgress={this.setProgress} country='in' category={ele} pageSize={12} />
-                </Route>
-              )
-            })}
+                </Route>)
+            })
+            }
           </Switch>
         </Router>
       </>
